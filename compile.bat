@@ -1,0 +1,2 @@
+:: ƒRƒ“ƒpƒCƒ‹
+gcc hello.c
